@@ -7,14 +7,14 @@ This repository contains all tasks completed during the CodSoft Web Development 
 
 ## Tasks
 
-### Task 1
-Registration Form
+# Task 1 - Number Game
+A Java console-based number guessing game.
 
-### Task 2
-(Your Task Name)
+# Task 2 - Student Grade Calculator
+A Java program to calculate total marks, average percentage, and grade.
 
-### Task 3
-(Your Task Name)
+# Task 3 - ATM Interface
+A Java console-based ATM system with withdraw, deposit, and balance check features.
 
 ## Author
 Somya Garg
